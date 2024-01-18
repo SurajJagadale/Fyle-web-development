@@ -1,0 +1,73 @@
+
+*{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+
+ .repo-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  width: 45%;
+  display: inline-block;
+  margin-right: 2%;
+}
+
+h2 {
+  margin-bottom: 8px;
+}
+
+p {
+  margin-top: 8px;
+}
+.pagination {
+  margin-left: 70px;
+  margin-right:10px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.page-link {
+  padding: 8px 16px;
+  margin-right: 5px;
+  text-decoration: none;
+  color: #333;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.loading {
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 50px;
+}
+.page-link:hover {
+  background-color: #ddd;
+}
+
+
+.intro{
+  display: flex;
+  flex-direction: row;
+  padding-left:30px ;
+}
+.image img{
+  border-radius: 100%;
+  width: 200px;
+}
+.intro .detail{
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.link{
+  padding: 10px;
+}
+.dabba{
+  box-sizing: border-box;
+  border: 5rem;
+}
